@@ -1,0 +1,6 @@
+[submodule "Blog-Backend-Strapi"]
+	path = Blog-Backend-Strapi
+	url = https://github.com/adercijr/blog-backend-strapi.git
+[submodule "Blog-Frontend-NextJS"]
+	path = Blog-Frontend-NextJS
+	url = https://github.com/adercijr/Blog-Frontend-NextJs.git
